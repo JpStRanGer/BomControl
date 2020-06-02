@@ -1,0 +1,8 @@
+# LINUX PROGRAM FOR Å PULLE AUTOMATISK FRA GITHUB
+https://github.com/olipo186/Git-Auto-Deploy
+
+Pogrammer som skal lastes ned:
+
+- Anacoda (pakke openc)
+- GIT
+

@@ -20,8 +20,8 @@ GPIO.setup(21, GPIO.OUT)
 
 # Runn MAIN loop
 while True:
-    _, img = cap.read() # Read image from capture
-    data, bbox, _ = detector.detectAndDecode(img) # Detect And Decode image from variable
+    retval, img = cap.read() # Read image from capture # retval = True If no frames has been grabbed (camera has been disconnected, or there are no more frames in video file),
+    data, bbox, qr = detector.detectAndDecode(img) # Detect And Decode image from variable
     
     # check if file exist
     if(bbox is not None):

@@ -56,7 +56,7 @@ except:
 
 
 window = Tk()
-B = tkinter.Button(window, text ="Hello", command = printer)
+B = tkinter.Button(window, text ="PRINT", command = printer)
 B.pack()
 window.mainloop()
 

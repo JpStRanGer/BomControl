@@ -9,7 +9,7 @@ import tkinter
 import tkinter.messagebox as mbox
 
 def printer():
-    labelText.SetField('TEXT1', now.strftime('%Y/%m/%d'))
+    labelText.SetField('TEXT', now.strftime('%Y/%m/%d'))
     labelText.SetField('TEXT2', next.strftime('%Y/%m/%d'))
     
     labelCom.StartPrintJob()

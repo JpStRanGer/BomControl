@@ -49,6 +49,7 @@ try:
     selectPrinter = 'DYMO LabelWriter 450'
     labelCom.SelectPrinter(selectPrinter)
     
+    
 
 except:
     mbox.showinfo('PyDymoLabel','An error occurred during printing.')

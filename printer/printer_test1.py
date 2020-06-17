@@ -7,10 +7,12 @@ from win32com.client import Dispatch
 from tkinter import Tk
 import tkinter
 import tkinter.messagebox as mbox
+import PIL
 
 def printer():
+    im = PIL.Image.open("test.png")
     labelText.SetField('TEXT', now.strftime('%Y/%m/%d'))
-    labelText.SetField('TEXT2', next.strftime('%Y/%m/%d'))
+    labelText.SetField('GRAPHIC', im)
     
     labelCom.StartPrintJob()
     labelCom.Print(1,False)
@@ -46,6 +48,7 @@ try:
     labelCom = Dispatch('Dymo.DymoAddIn')
     labelText = Dispatch('Dymo.DymoLabels')
     isOpen = labelCom.Open(mylabel)
+    #print('OBJECT NAMES: ',labelText.GetObjectNames())
     selectPrinter = 'DYMO LabelWriter 450'
     labelCom.SelectPrinter(selectPrinter)
     

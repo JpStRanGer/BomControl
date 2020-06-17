@@ -9,3 +9,12 @@ Pogrammer som skal lastes ned:
 Fix når for å få tilbake reparert repository:
 "git pull origin master --allow-unrelated-histories"
 (https://www.educative.io/edpresso/the-fatal-refusing-to-merge-unrelated-histories-git-error)
+
+BUILD: Cheap Alexa Printer From An Old Receipt Printer - Tinkernut Workbench
+https://www.youtube.com/watch?v=uv6D_BfPLzw
+
+Python - How to Print Barcodes with DYMO Label Printer
+https://www.youtube.com/watch?v=trKAtdVjAus&feature=youtu.be&fbclid=IwAR36b_TeJQfRgZBQgQaHmOngtu1UsGn18u4_WIycBl_qSiXTSHxYSw5PKSE
+
+Detecting Barcodes in Images with Python and OpenCV
+https://www.pyimagesearch.com/2014/11/24/detecting-barcodes-images-python-opencv/

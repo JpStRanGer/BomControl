@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DieCutLabel Version="8.0" Units="twips">
+	<PaperOrientation>Landscape</PaperOrientation>
+	<Id>WhiteNameBadge11356</Id>
+	<IsOutlined>false</IsOutlined>
+	<PaperName>11356 White Name Badge - virtual</PaperName>
+	<DrawCommands>
+		<RoundRectangle X="0" Y="0" Width="2340" Height="5040" Rx="270" Ry="270" />
+	</DrawCommands>
+	<ObjectInfo>
+		<BarcodeObject>
+			<Name>BARCODE</Name>
+			<ForeColor Alpha="255" Red="0" Green="0" Blue="0" />
+			<BackColor Alpha="0" Red="255" Green="255" Blue="255" />
+			<LinkedObjectName />
+			<Rotation>Rotation0</Rotation>
+			<IsMirrored>False</IsMirrored>
+			<IsVariable>True</IsVariable>
+			<GroupID>-1</GroupID>
+			<IsOutlined>False</IsOutlined>
+			<Text>12345</Text>
+			<Type>Code39</Type>
+			<Size>Medium</Size>
+			<TextPosition>Bottom</TextPosition>
+			<TextFont Family="Arial" Size="8" Bold="False" Italic="False" Underline="False" Strikeout="False" />
+			<CheckSumFont Family="Arial" Size="8" Bold="False" Italic="False" Underline="False" Strikeout="False" />
+			<TextEmbedding>None</TextEmbedding>
+			<ECLevel>0</ECLevel>
+			<HorizontalAlignment>Center</HorizontalAlignment>
+			<QuietZonesPadding Left="0" Top="0" Right="0" Bottom="0" />
+		</BarcodeObject>
+		<Bounds X="2073.59991455078" Y="1110" Width="2880" Height="720" />
+	</ObjectInfo>
+	<ObjectInfo>
+		<TextObject>
+			<Name>TEXT</Name>
+			<ForeColor Alpha="255" Red="0" Green="0" Blue="0" />
+			<BackColor Alpha="0" Red="255" Green="255" Blue="255" />
+			<LinkedObjectName />
+			<Rotation>Rotation0</Rotation>
+			<IsMirrored>False</IsMirrored>
+			<IsVariable>False</IsVariable>
+			<GroupID>-1</GroupID>
+			<IsOutlined>False</IsOutlined>
+			<HorizontalAlignment>Center</HorizontalAlignment>
+			<VerticalAlignment>Top</VerticalAlignment>
+			<TextFitMode>ShrinkToFit</TextFitMode>
+			<UseFullFontHeight>True</UseFullFontHeight>
+			<Verticalized>False</Verticalized>
+			<StyledText>
+				<Element>
+					<String xml:space="preserve">Bruk denne lappen til
+å åpne porten</String>
+					<Attributes>
+						<Font Family="Arial" Size="12" Bold="False" Italic="False" Underline="False" Strikeout="False" />
+						<ForeColor Alpha="255" Red="0" Green="0" Blue="0" HueScale="100" />
+					</Attributes>
+				</Element>
+			</StyledText>
+		</TextObject>
+		<Bounds X="2073.59991455078" Y="225" Width="2880" Height="720" />
+	</ObjectInfo>
+	<ObjectInfo>
+		<ImageObject>
+			<Name>GRAPHIC</Name>
+			<ForeColor Alpha="255" Red="0" Green="0" Blue="0" />
+			<BackColor Alpha="0" Red="255" Green="255" Blue="255" />
+			<LinkedObjectName />
+			<Rotation>Rotation0</Rotation>
+			<IsMirrored>False</IsMirrored>
+			<IsVariable>False</IsVariable>
+			<GroupID>-1</GroupID>
+			<IsOutlined>False</IsOutlined>
+			<Image>iVBORw0KGgoAAAANSUhEUgAAAMgAAADICAYAAACtWK6eAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAANtSURBVHhe7d3NauMwFIDRdt7/necHZjGLzqfF5aI4PQdKu4mtWP0QWDj5/PnbB/ClH39/A18QCASBQBAIBIFAEAgEgUAQCASBQBAIBIFAEAgEgUAQCASBQBg/D/L5+fn3r/c0fVzmdH1Ox59e3+3jv7rp/FlBIAgEgkAgCASCQCAIBIJAIKzvg0zvQ2/bHv/2PsP2+L77/FlBIAgEgkAgCASCQCAIBIJAIFzfB7m9T3B7/K9+/HefvxMrCASBQBAIBIFAEAgEgUAQCASBDP25z14/2746578/zAgEgkAgCASCQCAIBIJAIAgEgudBlp8nONm+frdfP3V7/qwgEAQCQSAQBAJBIBAEAkEgEHw/yDcfv/lrVhAIAoEgEAgCgSAQCAKBIBAI6/sgT7e9j/Dqr3+64b+3FQSKQCAIBIJAIAgEgkAgCATCeB/ku5vuI2zvU5jeGSsIBIFAEAgEgUAQCASBQBAIhJd/HmR7n+Dpnr6Pchrf9vlPrCAQBAJBIBAEAkEgEAQCQSAQXv55kNv38V/9Pv3U9vW9ffzp/FhBIAgEgkAgCASCQCAIBIJAIDz+c7Gm99lPppfn6fsAJ9vn375+J1YQCAKBIBAIAoEgEAgCgSAQCOufi3U6/NP3CW7fp5+ajn/q9v/HiRUEgkAgCASCQCAIBIJAIAgEwvrzINN9iHffx7h9fbbf/+3jT+fHCgJBIBAEAkEgEAQCQSAQBALh8Z+Lddv2ffjtfY7t6b99/ikrCASBQBAIBIFAEAgEgUAQCIT1z8V6utv7DNv7IFPb12c6/un1t4JAEAgEgUAQCASBQBAIBIFAuP79ILdt36efvn7b9vzc3seYsoJAEAgEgUAQCASBQBAIBIFAePz3pJ9Mz789/qeP72R7fk+m47eCQBAIBIFAEAgEgUAQCASBQLAPMhz/ye19iJNXn7+T7etjBYEgEAgCgSAQCAKBIBAIAoFgH+Sbj/9k+/2d3H7/VhAIAoEgEAgCgSAQCAKBIBAIvh9kOP7br586nX9q+v6nptfPCgJBIBAEAkEgEAQCQSAQBAJhfR/k6ab38af34U+m57/9+qnt81tBIAgEgkAgCASCQCAIBIJAIIz3QeCdWUEgCASCQCAIBIJAIAgEgkAgCASCQCAIBIJAIAgEgkAgCASCQOC/Pj5+AbZC2QIIh3RHAAAAAElFTkSuQmCC</Image>
+			<ScaleMode>Uniform</ScaleMode>
+			<BorderWidth>0</BorderWidth>
+			<BorderColor Alpha="255" Red="0" Green="0" Blue="0" />
+			<HorizontalAlignment>Center</HorizontalAlignment>
+			<VerticalAlignment>Center</VerticalAlignment>
+		</ImageObject>
+		<Bounds X="331.200012207031" Y="150" Width="1950" Height="1920" />
+	</ObjectInfo>
+</DieCutLabel>

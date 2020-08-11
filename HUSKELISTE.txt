@@ -18,3 +18,8 @@ https://www.youtube.com/watch?v=trKAtdVjAus&feature=youtu.be&fbclid=IwAR36b_TeJQ
 
 Detecting Barcodes in Images with Python and OpenCV
 https://www.pyimagesearch.com/2014/11/24/detecting-barcodes-images-python-opencv/
+
+
+##########################
+##### SQL-DATABASE #######
+guid for å sette opp sqldatabase: https://pimylifeup.com/raspberry-pi-mysql/

@@ -1,0 +1,5 @@
+echo "start:...."
+sudo apt-get update
+echo "....done update...."
+sudo apt-get upgrade
+echo "...done"
